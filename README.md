@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **code.ing2468@gmail.com**
 
-- 📄 Know further about me [prakashtajpuriya.com.np](prakashtajpuriya.com.np)
+- 📄 Know further about me [https://prakashtajpuriya.com.np](https://prakashtajpuriya.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
