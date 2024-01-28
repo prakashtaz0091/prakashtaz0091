@@ -22,16 +22,25 @@
 
 ###
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=prakashtaz0091&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+
+
+
 <div align="center">
 <img  src="https://raw.githubusercontent.com/prakashtaz0091/prakashtaz0091/output/snake.svg" alt="Snake animation" />
 </div>
 
-### 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
