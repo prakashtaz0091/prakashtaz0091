@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Prakash Tajpuriya</h1>
 <h3 align="center">A progressive Back-end developer with pretty good knowledge of Front-end from Nepal</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashtaz0091&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashtaz0091&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/prakashtaz0091/prakashtaz0091/output/snake.svg" alt="Snake animation" />
+
+###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashtaz0091" alt="prakashtaz0091" /></a> </p>
 
 - 🌱 I’m currently learning **Django and Next.js**
@@ -16,9 +25,7 @@
 
 - 📄 Know further about me [https://prakashtajpuriya.com.np](https://prakashtajpuriya.com.np)
 
-<img src="https://raw.githubusercontent.com/prakashtaz0091/prakashtaz0091/output/snake.svg" alt="Snake animation" />
 
-###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
