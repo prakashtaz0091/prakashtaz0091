@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/prakashtaz0091/prakashtaz0091/output/github-header-image.png"  />
+  <img height="100%" width="100%" src="https://raw.githubusercontent.com/prakashtaz0091/prakashtaz0091/output/github-header-image.png"  />
 </div>
 
 
