@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Prakash Tajpuriya</h1>
-<h3 align="center">A progressive Back-end developer with pretty good knowledge of Front-end from Nepal</h3>
+<h3 align="center">A progressive Back-end developer with pretty good knowledge of Front-end and Mobile App Development, from Nepal</h3>
 
 
 ###
