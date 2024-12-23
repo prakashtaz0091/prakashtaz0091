@@ -72,15 +72,6 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prakashtaz0091&theme=nightowl"/>
 
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=prakashtaz0091&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-
 
 
 
@@ -90,8 +81,6 @@
 - 👯 I’m looking to collaborate on **Back-end projects (with Django)**
 
 - 📝 I occasionally write articles on [https://prakash0091.hashnode.dev/](https://prakash0091.hashnode.dev/)
-
-- 💬 Ask me about **Django and Next.js**
 
 - 📫 How to reach me **code.ing2468@gmail.com**
 
