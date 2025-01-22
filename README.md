@@ -73,7 +73,7 @@
 
 
 
-- 🌱 I’m currently learning **Django and Next.js**
+- 🌱 I’m currently learning **Django, FastAPI**
 
 - 👯 I’m looking to collaborate on **Back-end projects (with Django)**
 
