@@ -83,9 +83,7 @@
 
 
 
-- 🌱 I’m currently learning **Django, FastAPI**
-
-- 👯 I’m looking to collaborate on **Back-end projects (with Django)**
+- 🌱 I’m currently learning **Django, FastAPI, React.js**
 
 - 📝 I occasionally write articles on [https://prakash0091.hashnode.dev/](https://prakash0091.hashnode.dev/)
 
