@@ -83,7 +83,7 @@
 
 
 
-- 🌱 I’m currently learning **Django, FastAPI, React.js**
+- 🌱 I’m currently working with **Django, FastAPI, React.js**
 
 - 📝 I occasionally write articles on [https://prakash0091.hashnode.dev/](https://prakash0091.hashnode.dev/)
 
